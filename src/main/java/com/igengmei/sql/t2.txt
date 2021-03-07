@@ -1,0 +1,16 @@
+1;java;90
+1;c;78
+1;python;91
+1;hadoop;80
+2;java;75
+2;c;76
+2;python;80
+2;hadoop;93
+3;java;98
+3;c;74
+3;python;89
+3;hadoop;91
+5;java;93
+6;c;76
+7;python;87
+8;hadoop;88
